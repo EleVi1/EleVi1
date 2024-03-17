@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EleVi1
-- 👀 I’m interested in sport, computer science, software development
+- 👀 I’m interested in sport, music, computer science, software development
 - 🌱 I’m currently learning frontend programming languages
 - 💞️ I’m looking to develop my skills on software or mobile development 
 - 😄 Pronouns: she/her
