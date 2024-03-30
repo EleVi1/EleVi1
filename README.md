@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://pixabay.com/vectors/laptop-computer-portable-pc-2298286/" width="100"/>
+  <img src="file:///home/elenavil/T%C3%A9l%C3%A9chargements/laptop-2298286_1280.png" width="100"/>
 </div>
 
 <div id="badges", align="center">
