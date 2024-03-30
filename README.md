@@ -1,4 +1,6 @@
-![image](https://github.com/EleVi1/EleVi1/assets/163721747/238d8b81-c763-4d42-b5d2-056a5dcf9a02 = 250x250)
+<div id="header" align="center">
+  <img src="https://your-image-url](https://github.com/EleVi1/EleVi1/assets/163721747/238d8b81-c763-4d42-b5d2-056a5dcf9a02.png" width="100" height="100">
+</div>
 
 <div id="badges", align="center">
   <a href="https://fr.linkedin.com/in/elena-villepreux">
