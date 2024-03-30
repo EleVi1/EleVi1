@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://dribbble.com/shots/16093268-Desktop-Animation/attachments/7943224?mode=media" width="600" height="300"/>
+  <img src="https://cdn.pixabay.com/photo/2023/10/10/12/36/lofi-8306349_1280.jpg" width="600" height="300"/>
 </div>
 ---
 
