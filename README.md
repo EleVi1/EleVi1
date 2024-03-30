@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://cdn.pixabay.com/photo/2023/10/10/12/36/lofi-8306349_1280.jpg" width="600" height="300"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
