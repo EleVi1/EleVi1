@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @EleVi1
-- 👀 I’m interested in sport, music, computer science, software development
-- 🌱 I’m currently learning frontend programming languages
-- 💞️ I’m looking to develop my skills on software or mobile development 
-- 😄 Pronouns: she/her
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
